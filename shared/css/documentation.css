@@ -136,10 +136,8 @@ img {
 }
 
 p > tt,
-dl code,
-ul code,
-ol code,
-p code {
+li > code,
+p > code {
   font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   color: #52595d;
   -webkit-border-radius: 3px;
