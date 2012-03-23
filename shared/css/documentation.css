@@ -136,7 +136,6 @@ img {
 }
 
 p > tt,
-li > code,
 p > code {
   font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   color: #52595d;
@@ -171,7 +170,7 @@ pre {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background-color: #FAFAFB;
+  background-color: #f9f9f9;
   color: #393939;
   margin: 0px;
 }
