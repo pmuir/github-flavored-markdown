@@ -134,7 +134,7 @@ td, th {
   margin: 0px;
      }
 
-tr:nth-child(even)		{ background-color:#f9f9f9; }
+tr:nth-child(even)		{ background-color:#f8f8f8; }
 tr:nth-child(odd)     	{ background-color:#fff; }
 
 p > tt,
@@ -150,7 +150,7 @@ th > code {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   border: 1px solid #ccc;
-  background-color: #f9f9f9;
+  background-color: #f8f8f8;
   padding: 0px 3px;
   display: inline-block;
 }
@@ -174,7 +174,7 @@ pre {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background-color: #f9f9f9;
+  background-color: #f8f8f8;
   color: #393939;
   margin: 0px;
 }
