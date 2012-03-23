@@ -6,11 +6,14 @@ html {
   height:100%;
 }
 
-body {
+body, table {
   font: 13px helvetica,arial,freesans,clean,sans-serif;
   line-height: 1.4em;
   background-color: #fff;
   color: #393939;
+}
+
+body {
   height: 100%;
   width: 560px;
   position: relative;
@@ -136,7 +139,9 @@ img {
 }
 
 p > tt,
-p > code {
+p > code,
+td > code,
+th > code {
   font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   color: #52595d;
   -webkit-border-radius: 3px;
