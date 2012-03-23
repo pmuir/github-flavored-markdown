@@ -21,8 +21,8 @@ body {
   z-index: 2;
 }
 
-border {
-  border-spacing: 0px;
+table {
+  border-collapse: collapse;
 }
 
 p {
