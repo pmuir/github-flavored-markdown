@@ -139,6 +139,7 @@ tr:nth-child(odd)     	{ background-color:#fff; }
 
 p > tt,
 p > code,
+li > code,
 td > code,
 th > code {
   font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
