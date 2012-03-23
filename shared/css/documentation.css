@@ -126,10 +126,10 @@ img {
 }
 
 td {
-  margin: 0px;
-  }
+  border-color: #ccc;
+     }
 
-tr:nth-child(even)		{ background-color:#f9f9f9; }
+tr:nth-child(even)		{ background-color:#ccc; }
 tr:nth-child(odd)     	{ background-color:#fff; }
 
 p > tt,
