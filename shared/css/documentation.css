@@ -125,8 +125,11 @@ img {
   box-shadow: 1px 1px 3px #ddd;
 }
 
-tr:nth-child(odd)     	{ background-color:#eee; }
-tr:nth-child(even)		{ background-color:#fff; }
+td {
+  margin: 0px;
+  }
+
+tr:nth-child(even)		{ background-color:#f9f9f9; }
 
 p > tt,
 p > code,
