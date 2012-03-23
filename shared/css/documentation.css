@@ -125,18 +125,8 @@ img {
   box-shadow: 1px 1px 3px #ddd;
 }
 
-
-
-.content 
-
-
-.content .description {
-  margin-left: 20px;
-}
-
-.content .verseblock-content {
-  padding: 3px;
-}
+tr:nth-child(odd)     	{ background-color:#eee; }
+tr:nth-child(even)		{ background-color:#fff; }
 
 p > tt,
 p > code,
